@@ -61,7 +61,7 @@ This step-by-step approach helps keep the analysis accurate and meaningful.
 
   In this project, we used a Snowflake schema for data modeling, which keeps the data organized, easy to manage, and ready for creating clear and useful reports.
   
- ![Data modeling](Datamodeling.png)
+ ![Data modeling](Data modeling.png.png)
  
  
 ## 🛠️Technologies Used
